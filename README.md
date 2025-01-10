@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Uttkarsha Gupta!  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Scientist+%7C+AI+Enthusiast;End-to-End+Project+Developer;Machine+Learning+Practitioner;Open+to+Collaborations!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Analyst+%7C+Machine+Learning+Engineer;Python%2C+SQL+%26+Power+BI+Expert;NLP+%26+Computer+Vision;AI-Powered+Business+Insights)
 
 ---
 
