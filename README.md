@@ -63,7 +63,5 @@ Here are some of my featured projects:
 - **Location:** Liverpool, UK  
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uttkarshagupta&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttkarshagupta&layout=compact&theme=radical)
 
